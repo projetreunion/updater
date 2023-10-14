@@ -1,1 +1,8 @@
-{"downloadPatchURL":"https://bit.ly/Pok%C3%A9monReUnion","downloadFullGameURL":"https://bit.ly/Pok%C3%A9monReUnion","version":"1.4","lastPatchURL":"https://raw.githubusercontent.com/projetreunion/updater-files/main/patch/patch_1.4.json","lastFullGameURL":"https://raw.githubusercontent.com/projetreunion/updater-files/main/game/game_1.4.json","generatedAt":"2023-10-14T11:29:08.520Z"}
+{
+  "downloadPatchURL": "https://bit.ly/Pok%C3%A9monReUnion",
+  "downloadFullGameURL": "https://bit.ly/Pok%C3%A9monReUnion",
+  "version": "1.4",
+  "lastPatchURL": "https://raw.githubusercontent.com/projetreunion/updater-files/main/patch/patch_1.4.json",
+  "lastFullGameURL": "https://raw.githubusercontent.com/projetreunion/updater-files/main/game/game_1.4.json",
+  "generatedAt": "2023-10-14T12:08:15.623Z"
+}
